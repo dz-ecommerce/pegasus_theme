@@ -212,7 +212,7 @@
         "step": 100,
         "default": 1200,
         "unit": "px",
-        "label": "t:settings_schema.layout.settings.page_width.label"
+        "label": "t:settings_schema.layout.header.page_width.label"
       }
     ]
   },
