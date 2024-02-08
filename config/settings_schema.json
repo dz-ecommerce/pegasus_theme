@@ -206,13 +206,13 @@
       "settings": [
         {
           "type": "range",
-          "id": "page_width",
+          "id": "header_width",
           "min": 1000,
           "max": 1600,
           "step": 100,
           "default": 1200,
           "unit": "px",
-          "label": "t:settings_schema.layout.header.page_width.label"
+          "label": "t:settings_schema.layout.header.header_width.label"
         }
       ]
     },

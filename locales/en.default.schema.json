@@ -373,8 +373,8 @@
   "header": {
     "name": "Header",
     "settings": {
-      "page_width": {
-        "label": "Page width"
+      "header_width": {
+        "label": "Header width"
       },
       "spacing_sections": {
         "label": "Space between template sections"
