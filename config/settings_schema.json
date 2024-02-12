@@ -234,6 +234,24 @@
       ]
     },
     {
+      "name": "t:settings_schema.color_swatch.name",
+      "settings": [
+        {
+          "type": "checkbox",
+          "id": "round_color_swatches",
+          "label": "t:settings_schema.color_swatch.round_color_swatches",
+          "default": false
+        },
+        {
+          "type": "textarea",
+          "id": "color_swatch_config",
+          "label": "t:settings_schema.color_swatch.configuration",
+          "placeholder": "Red:#ff0000\nGreen:#00ff00\nBlue:#0000ff",
+          "info": "t:settings_schema.color_swatch.configuration_info"
+        }
+      ]
+    },
+    {
       "name": "t:settings_schema.buttons.name",
       "settings": [
         {
